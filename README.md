@@ -1,4 +1,5 @@
-### Hello world, I'm lrioxh
+### Hello world, I'm lrioxh \_(:△」∠)_
+<div align="center">
 
 <picture>
 <!--   <source
@@ -20,3 +21,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrioxh&layout=compact&size_weight=1&count_weight=2" />
 </picture>
+<img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/random/20230504_063612.jpg" width="25%" align="right" />
+
+<img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20240114_225357.jpg" width="25%" align="right" />
+</div>
