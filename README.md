@@ -8,7 +8,7 @@
 
 Mainly develop using Python, C/C++, and JavaScript, currently learning Java.
 
-Recently busy developing a TLS proxy to replace the record layer of OpenSSL. Previously developed some AI applications ([GPT-ViTS backend](https://github.com/lrioxh/backend-with-gpt-vits), [CV & 3D reconstruction](https://github.com/lrioxh/CV)), AI hardware ([PCG diagnostic device](https://github.com/lrioxh/PCG-Categrioes-with-Raspberry0)), [more details](#projects).
+Recently busy developing a [TLS proxy](https://gitee.com/lrioxh/tls_proxy) (private) to replace the record layer of OpenSSL. Previously developed some AI applications ([GPT-ViTS backend](https://github.com/lrioxh/backend-with-gpt-vits), [CV & 3D reconstruction](https://github.com/lrioxh/CV)), AI hardware ([PCG diagnostic device](https://github.com/lrioxh/PCG-Categrioes-with-Raspberry0)), [more details](#projects).
 
 Research direction is code representation by GNN/LLM.
 
@@ -39,11 +39,14 @@ Research direction is code representation by GNN/LLM.
 <details><summary>More about me</summary>
 <br>
 
-Hobbies include anime, music, and games. Can play the piano, currently learning music composition and improvisation. 
+Hobbies include 🐱anime, 🎵music, and 🎮games. Can play the piano, currently learning music composition and improvisation. 
+
 Welcome to watch my videos! 👇📺 Check out what I've created! 
 
-<a href="https://www.bilibili.com/video/BV1Nu411g7UK" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20230504_063650.jpg" alt="test1" width="25%"></a>
-<a href="https://www.bilibili.com/video/BV1Nu411g7UK" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20230504_063650.jpg" alt="test1" width="25%"></a>
+<a href="https://www.bilibili.com/video/BV1Nu411g7UK" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/de55c6180dd8238229ab9f258faf17c892f3e75a.jpg" alt="test1" width="30%"></a>
+<a href="https://www.bilibili.com/video/BV1rZ4y1c7Rg" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/6d58f822a0758d1feb113c86fbf2114e36435d34.jpg" alt="test1" width="30%"></a>
+<a href="https://www.bilibili.com/video/BV1dv411x7Aw" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/f66b220a91e707b5919720c19e483bfef9d2808a.jpg" alt="test1" width="30%"></a>
+
 
 <div align="left" width="40%">
 
