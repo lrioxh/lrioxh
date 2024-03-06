@@ -30,9 +30,9 @@ Research direction is code representation by GNN/LLM.
 <details><summary id="projects">Projects (Click to expand)</summary>
 <br>
   
-| Column 1 | Column 2  |	Column 3 |
+| name/link | description  |	notes |
 |:--------| :---------:|--------:|
-| centered 文本居左 | right-aligned 文本居中 |right-aligned 文本居右|
+| left-aligned | centered |right-aligned |
 
 </details>
 
@@ -40,12 +40,19 @@ Research direction is code representation by GNN/LLM.
 <br>
 
 Hobbies include anime, music, and games. Can play the piano, currently learning music composition and improvisation. 
+Welcome to watch my videos! 👇📺 Check out what I've created! 
+
+<a href="https://www.bilibili.com/video/BV1Nu411g7UK" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20230504_063650.jpg" alt="test1" width="25%"></a>
+<a href="https://www.bilibili.com/video/BV1Nu411g7UK" target="_blank"><img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20230504_063650.jpg" alt="test1" width="25%"></a>
+
+<div align="left" width="40%">
 
 Learn more about me at:
 <a href="https://space.bilibili.com/23698455" target="_blank"><img src="https://img.shields.io/badge/-bilibili-blue?logo=bilibili" alt="video-B站"></a>
 <a href="https://bgm.tv/user/605833" target="_blank"><img src="https://img.shields.io/badge/-bangumi-e05fa1" alt="bgm"></a>
 
-<img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20240114_225357.jpg" width="50%" align="right"  valign="bottom" />
+</dev>
+<img src="https://raw.githubusercontent.com/lrioxh/lrioxh/main/.github/assets/20240114_225357.jpg" width="40%" align="right"  valign="bottom" />
 </details>
 
 </div>
