@@ -30,16 +30,30 @@ Research direction is code representation by GNN/LLM.
 <details><summary id="projects">Projects (Click to expand)</summary>
 <br>
   
-| name/link | description  |	notes |
-|:--------| :---------:|--------:|
-| left-aligned | centered |right-aligned |
+| name/link | description | time | language |notes|
+|:--------:|:---------|:--------:|:--------:|:----:|
+| [Tls proxy](https://gitee.com/lrioxh/tls_proxy) | Tls 12/13 proxy to see plaintext in trusted scenes. Based on socket and replace the record layer of openssl| 2023 | c | private |
+| [GPT-VITS backend](https://github.com/lrioxh/backend-with-gpt-vits) | Text and voice chat backend with GPT3.5 api and multilingual VITS. Support custom configuration for model/speaker. Multilingual speech input supported by whisper|2023 | python | -|
+| [3D reconstruction](https://github.com/lrioxh/CV/tree/main/TDre) | 3D reconstruction of monocular vision based on SfM+CMVS+PMVS, including pc program, WeChat applet and flask backend |2022 | python |[video](https://www.bilibili.com/video/BV1344y1z7S3)|
+| [CV practise](https://github.com/lrioxh/CV) | GUI program using opencv & pyqt5 for digital image processing and a picture scanner |2021 | python |[video](https://www.bilibili.com/video/BV1rZ4y1c7Rg)|
+| [PCG Categrioes with Raspberry0](https://github.com/lrioxh/PCG-Categrioes-with-Raspberry0) | A heart sound diagnosis system combining deep learning and low diversity forest. Patent No. CN2021109711899 |2021 | python |[video](https://www.bilibili.com/video/BV1er4y1T7ab)|
+| [Facial Autism](https://github.com/lrioxh/Autism) | Facial emotion recognition for Autism diagnosis and treatment, including frontends for recognition or statistics visualization, and database backend |2020 | python/js |[video](https://www.bilibili.com/video/BV1Kk4y1C7tL)|
+| [Take out ordering WeChat applet](https://github.com/lrioxh/takeoutProject) | Take out ordering WeChat applet based on wxcloud, including interfaces for consumer, delivery man and merchant|2020 | js/html |-|
+| [HAR applet](https://github.com/lrioxh/HAR-applet-of-Wechat) | Human activity recognition WeChat applet, from data recording to activity recognition |2020 | python/js |[video](https://www.bilibili.com/video/BV1Tf4y1178T)|
+| [USB switch](https://github.com/lrioxh/USB_switch) | USB switch based on 51 microcontroller, features: bluetooth remote control, timing, current detection, infrared induction|2019 | c/assembly |-|
+
+<!--
+| [CDCN-custom](https://github.com/lrioxh/CDCN.pytorch) |An custom adaptation for Central Difference Convolutional Network (CDCN) for face anti spoofing |2023 | python |
+| [RDH with Grayscale Invariance](https://github.com/lrioxh/RDH-with-Grayscale-Invariance) | Improvement and experiments for Reversible Data Hiding in RGB image with Grayscale Invariance |2022 | python |
+| [YOLOX-eval visualization](https://github.com/lrioxh/YOLOX-eval-visualization) | Visualize evaluation result for origin YOLOX |2022 | python |
+-->
 
 </details>
 
 <details><summary>More about me</summary>
 <br>
 
-Hobbies include 🐱anime, 🎵music, and 🎮games. Can play the piano, currently learning music composition and improvisation. 
+Hobbies include 🐱anime, 🎵music, and 🎮games. Can play the 🎹piano, currently learning music composition and improvisation. 
 
 Welcome to watch my videos! 👇📺 Check out what I've created! 
 
