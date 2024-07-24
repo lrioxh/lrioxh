@@ -8,9 +8,9 @@
 
 Mainly develop using Python, C/C++, and JavaScript, currently learning Java.
 
-Recently busy developing a [TLS proxy](https://gitee.com/lrioxh/tls_proxy) (private) to replace the record layer of OpenSSL. Previously developed some AI applications ([GPT-ViTS backend](https://github.com/lrioxh/backend-with-gpt-vits), [CV & 3D reconstruction](https://github.com/lrioxh/CV)), AI hardware ([PCG diagnostic device](https://github.com/lrioxh/PCG-Categrioes-with-Raspberry0)), [more details](#projects).
+Recently developed a [TLS proxy](https://gitee.com/lrioxh/tls_proxy) (private) to replace the record layer of OpenSSL. Previously developed some AI applications ([GPT-ViTS backend](https://github.com/lrioxh/backend-with-gpt-vits), [CV & 3D reconstruction](https://github.com/lrioxh/CV)), AI hardware ([PCG diagnostic device](https://github.com/lrioxh/PCG-Categrioes-with-Raspberry0)), [more details](#projects).
 
-Research direction of M.Eng. is code representation using GNN/LLM.
+Research direction of M.Eng. is code representation as TAG using GNN+LM.
 
 
 </br>
