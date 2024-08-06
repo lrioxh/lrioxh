@@ -53,7 +53,7 @@ Research direction of M.Eng. is code representation as TAG using GNN+LM.
 <details><summary>More about me</summary>
 <br>
 
-Hobbies include 🐱anime, 🎵music, and 🎮games. Can play the 🎹piano, currently learning music composition and improvisation. 
+Hobbies include 🐱anime, 🎵music, 📷photography and 🎮games. Can play the 🎹piano, currently learning music composition and improvisation. 
 
 Welcome to watch my videos! 👇📺 Check out what I've created! 
 
